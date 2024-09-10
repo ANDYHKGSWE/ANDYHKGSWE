@@ -1,4 +1,4 @@
-# Hi there, I'm Andy Cheung 👋😍 🇸🇪🇭🇰
+# Hi there, I'm Andy 👋😍 🇸🇪🇭🇰
 
 Welcome to my GitHub profile! 
 I'm passionate about Coding, Programming and all Fullstack things, and I love different cultures, food and travels!
