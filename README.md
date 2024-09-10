@@ -1,6 +1,7 @@
 # Hi there, I'm Andy Cheung 👋😍 🇸🇪🇭🇰
 
-Welcome to my GitHub profile! I'm passionate about Coding, Programming and all Fullstack things, and I love different cultures, food and travels!
+Welcome to my GitHub profile! 
+I'm passionate about Coding, Programming and all Fullstack things, and I love different cultures, food and travels!
 
 ![anime-love](https://github.com/user-attachments/assets/ad04a880-5850-463a-bb34-ec0e4b31f3ee)
 
