@@ -8,5 +8,4 @@ Welcome to my GitHub profile! I'm passionate about Coding, Programming and all F
 - 💬 Ask me about: I'm a Happy Empathatic Swedish Born Asian! 🇸🇪🇭🇰
 - ⚡ Fun fact: I love Bluberries and Mangoes!
 
-![happy-amine](https://github.com/user-attachments/assets/a717d572-02b3-410a-839c-56369089f7e0)
 ![anime-love](https://github.com/user-attachments/assets/ad04a880-5850-463a-bb34-ec0e4b31f3ee)
